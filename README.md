@@ -136,8 +136,8 @@ stack new projeto-haskell simple
 cd projeto-haskell
 emacs Setup.hs &
 ```
-Uma mensagem como esta deve aparecer na parte inferior da tela. 
-<center>![Importando projeto](./Images/emacs1.png "importando projeto")</center>
+Uma mensagem como esta deve aparecer na parte inferior da tela: 
+![Importando projeto](emacs1.png "importando projeto")
 Você pode apertar "i" para definir a raiz do projeto como a pasta na qual você está.<br/>
 Experimente abrir todos os arquivos do projeto utilizando treemacs, para testar se os pacotes estão funcionando corretamente.
 
